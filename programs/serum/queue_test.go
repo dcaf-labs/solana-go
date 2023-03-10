@@ -25,7 +25,7 @@ import (
 	"testing"
 	"time"
 
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	"github.com/dcaf-labs/solana-go"
 	"github.com/dcaf-labs/solana-go/diff"
 	"github.com/dcaf-labs/solana-go/rpc"

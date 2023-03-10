@@ -17,7 +17,7 @@ package computebudget
 import (
 	"errors"
 
-	ag_binary "github.com/gagliardetto/binary"
+	ag_binary "github.com/dcaf-labs/binary"
 	ag_solanago "github.com/dcaf-labs/solana-go"
 	ag_format "github.com/dcaf-labs/solana-go/text/format"
 	ag_treeout "github.com/gagliardetto/treeout"

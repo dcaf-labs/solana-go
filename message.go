@@ -21,7 +21,7 @@ import (
 	"encoding/base64"
 	"fmt"
 
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	"github.com/gagliardetto/treeout"
 
 	"github.com/dcaf-labs/solana-go/text"

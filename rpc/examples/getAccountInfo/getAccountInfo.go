@@ -18,7 +18,7 @@ import (
 	"context"
 
 	"github.com/davecgh/go-spew/spew"
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	solana "github.com/dcaf-labs/solana-go"
 	"github.com/dcaf-labs/solana-go/programs/token"
 	"github.com/dcaf-labs/solana-go/rpc"

@@ -17,7 +17,7 @@ package system
 import (
 	"encoding/binary"
 
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	"github.com/dcaf-labs/solana-go"
 )
 

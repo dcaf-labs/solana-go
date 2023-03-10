@@ -18,7 +18,7 @@ import (
 	"fmt"
 
 	spew "github.com/davecgh/go-spew/spew"
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	solana "github.com/dcaf-labs/solana-go"
 	text "github.com/dcaf-labs/solana-go/text"
 	treeout "github.com/gagliardetto/treeout"

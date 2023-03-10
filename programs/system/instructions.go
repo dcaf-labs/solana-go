@@ -23,7 +23,7 @@ import (
 	"fmt"
 
 	ag_spew "github.com/davecgh/go-spew/spew"
-	ag_binary "github.com/gagliardetto/binary"
+	ag_binary "github.com/dcaf-labs/binary"
 	ag_solanago "github.com/dcaf-labs/solana-go"
 	ag_text "github.com/dcaf-labs/solana-go/text"
 	ag_treeout "github.com/gagliardetto/treeout"

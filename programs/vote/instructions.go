@@ -20,7 +20,7 @@ import (
 	"fmt"
 
 	"github.com/davecgh/go-spew/spew"
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	"github.com/dcaf-labs/solana-go"
 	"github.com/dcaf-labs/solana-go/text"
 	"github.com/gagliardetto/treeout"

@@ -24,7 +24,7 @@ import (
 
 	"github.com/dcaf-labs/solana-go/text"
 
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	"github.com/dcaf-labs/solana-go"
 )
 

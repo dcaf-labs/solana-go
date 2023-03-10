@@ -263,7 +263,7 @@ import (
   "reflect"
 
   "github.com/davecgh/go-spew/spew"
-  bin "github.com/gagliardetto/binary"
+  bin "github.com/dcaf-labs/binary"
   "github.com/dcaf-labs/solana-go"
   "github.com/dcaf-labs/solana-go/programs/system"
   "github.com/dcaf-labs/solana-go/rpc"
@@ -386,7 +386,7 @@ func decodeSystemTransfer(tx *solana.Transaction) {
 
 ## Borsh encoding/decoding
 
-You can use the `github.com/gagliardetto/binary` package for encoding/decoding borsh-encoded data:
+You can use the `github.com/dcaf-labs/binary` package for encoding/decoding borsh-encoded data:
 
 Decoder:
 
@@ -914,7 +914,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  bin "github.com/gagliardetto/binary"
+  bin "github.com/dcaf-labs/binary"
   solana "github.com/dcaf-labs/solana-go"
   "github.com/dcaf-labs/solana-go/programs/token"
   "github.com/dcaf-labs/solana-go/rpc"
@@ -2551,7 +2551,7 @@ import (
   "context"
 
   "github.com/davecgh/go-spew/spew"
-  bin "github.com/gagliardetto/binary"
+  bin "github.com/dcaf-labs/binary"
   "github.com/dcaf-labs/solana-go"
   "github.com/dcaf-labs/solana-go/programs/token"
   "github.com/dcaf-labs/solana-go/rpc"

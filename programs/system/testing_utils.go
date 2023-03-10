@@ -18,7 +18,7 @@ import (
 	"bytes"
 	"fmt"
 
-	ag_binary "github.com/gagliardetto/binary"
+	ag_binary "github.com/dcaf-labs/binary"
 )
 
 func encodeT(data interface{}, buf *bytes.Buffer) error {

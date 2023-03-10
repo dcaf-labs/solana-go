@@ -21,7 +21,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	"github.com/dcaf-labs/solana-go"
 	"github.com/dcaf-labs/solana-go/text"
 )

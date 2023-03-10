@@ -18,7 +18,7 @@ import (
 	"errors"
 	"fmt"
 
-	bin "github.com/gagliardetto/binary"
+	bin "github.com/dcaf-labs/binary"
 	solana "github.com/dcaf-labs/solana-go"
 	format "github.com/dcaf-labs/solana-go/text/format"
 	treeout "github.com/gagliardetto/treeout"
