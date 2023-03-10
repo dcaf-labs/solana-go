@@ -18,7 +18,7 @@ import (
 	stdjson "encoding/json"
 	"testing"
 
-	"github.com/gagliardetto/solana-go"
+	"github.com/dcaf-labs/solana-go"
 	"github.com/stretchr/testify/assert"
 )
 

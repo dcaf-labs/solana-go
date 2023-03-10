@@ -20,8 +20,8 @@ import (
 	"fmt"
 
 	bin "github.com/gagliardetto/binary"
-	"github.com/gagliardetto/solana-go"
-	"github.com/gagliardetto/solana-go/rpc"
+	"github.com/dcaf-labs/solana-go"
+	"github.com/dcaf-labs/solana-go/rpc"
 )
 
 func main() {
